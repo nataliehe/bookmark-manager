@@ -5,5 +5,5 @@ User stories:
 Domain model:
 
 | Objects  | Messages |
-|----------|----------|
+|:--------:|:--------:|
 | bookmarks| list     |
